@@ -14,7 +14,7 @@ Quarto (.qmd) File: Document containing the analysis, outputs, and graphs showin
 
 In this section, the analysis extends to the world economy, using basic machine learning techniques and clustering methods to explore patterns and groupings in how different countries are affected by financial crises. The final output is a comprehensive report.
 
-Files:
+### Files:
 
 R Script: Performs the data analysis and clustering techniques.
 
