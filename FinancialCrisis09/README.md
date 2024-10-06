@@ -1,6 +1,6 @@
 # Financial Crises Project
 
-This project explores the economic impact of financial crises on both the U.S. economy and the world economy. The analysis is split into two parts, each using different methodologies to assess the effects of financial crises.
+This project explores the economic impact of financial crises on both the U.S. economy and the world economy. The analysis is split into two parts, each using different methodologies to assess the effects of financial crises. Data came from the World Bank economic indicators.
 
 ### Part 1: U.S. Economy Impact (Part1US)
 
