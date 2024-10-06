@@ -12,6 +12,9 @@ Finance: I will eventually upload some material regarding more typical finance t
 ### Languages and Tools
 
 R and Python: Primary languages for data analysis, visualization, and modeling.
+
 Stata and MATLAB: Occasionally used for specialized econometric and financial modeling tasks.
+
 Excel: Occasionally for typical financial topics.
+
 This repository will grow with more content as I upload various projects that reflect my ongoing learning and research. Feel free to explore the individual projects and exercises!
