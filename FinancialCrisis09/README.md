@@ -16,7 +16,7 @@ In this section, the analysis extends to the world economy, using basic machine 
 
 ### Files:
 
-R Scripts and qmd (Part1US.R/ Part1US.qmd / Part2W.R): Perform the data analysis and clustering techniques.
+Part1US.R/ Part1US.qmd / Part2W.R: Perform the data analysis and clustering techniques.
 
-Final Report (Part2W.pdf): Contains the results and visualizations from the world economy analysis.
+Part2W.pdf: Contains the results and visualizations from the world economy analysis.
 
