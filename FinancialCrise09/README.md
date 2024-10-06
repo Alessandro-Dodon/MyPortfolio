@@ -4,6 +4,7 @@ Welcome to my GitHub portfolio! I am a student specializing in Economics and Fin
 ### Areas of Focus
 
 Econometrics: Applied analysis of economic and financial data.
+
 Data Science: Utilizing statistical techniques and machine learning models to solve real-world problems in economics and finance.
 
 ### Languages and Tools
